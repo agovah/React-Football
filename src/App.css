@@ -1,0 +1,32 @@
+.table {
+    text-align: center;
+}
+
+.table td, .table th {
+    padding: .25rem;
+}
+
+.table .position {
+    width: 5%;
+}
+
+.table .points, .table .played, .table .won, .table .draw, .table .lost, .table .ga {
+    width: 10%;
+}
+
+.table .badge-td {
+    width: 5%;
+}
+
+.badge{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+}
+  
+.badge img{
+    max-width: 100%;
+    max-height: 100%;
+}
