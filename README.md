@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Usage
+
+```
+$ https://github.com/agovah/React-Football.git
+$ cd react React-Football-master
+$ npm install
+$ npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
