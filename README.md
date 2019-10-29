@@ -1,5 +1,21 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Usage
+
+```
+$ https://github.com/agovah/React-Football.git
+$ cd react React-Football-master
+$ npm install
+$ npm start
+```
+## API key
+
+1. Get API key @ https://www.football-data.org/
+2. Insert your API key to *app.js* file :
+```
+const Token = 'INSERT_TOKEN_HERE'
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
