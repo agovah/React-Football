@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0",
+    "react-scripts": "^3.4.1",
     "serialize-javascript": "^2.1.2"
   },
   "scripts": {
@@ -28,5 +28,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "acorn": "^7.3.1",
+    "kind-of": "^6.0.3",
+    "lodash": "^4.17.19",
+    "minimist": "^1.2.5",
+    "websocket-extensions": "^0.1.4"
   }
 }
