@@ -3,8 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Usage
 
 ```
-$ https://github.com/agovah/React-Football.git
-$ cd react React-Football-master
+$ git clone https://github.com/agovah/React-Football.git
+$ cd React-Football-master
 $ npm install
 $ npm start
 ```
