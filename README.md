@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-![Demo](https://raw.githubusercontent.com/agovah/React-Football/master/demo.jpg)
+![Demo](https://raw.githubusercontent.com/agovah/React-Football/master/app-demo.jpg)
 
 ## Usage
 
