@@ -12,6 +12,7 @@ $ cd React-Football-master
 $ npm install
 $ npm start
 ```
+
 ## API key
 
 1. Get your API key @ https://www.football-data.org/
