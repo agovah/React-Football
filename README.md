@@ -17,7 +17,7 @@ $ npm start
 1. Get your API key @ https://www.football-data.org/
 2. Insert your API key to *App.js* file :
 ```
-const Token = 'INSERT_TOKEN_HERE'
+const Token = 'YOUR_API_TOKEN'
 ```
 
 ## Available Scripts
